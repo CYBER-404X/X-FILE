@@ -1,4 +1,4 @@
-git cline https://github.com/CYBER-404X/X-FILE.git
+git clone https://github.com/CYBER-404X/X-FILE
 
 cd X-FILE
 
